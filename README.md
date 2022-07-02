@@ -45,7 +45,7 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 
 <div style="margin-top: 40px">
 
-<img align="left" alt="Conding" width="35%" height="350" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="left" alt="Conding" width="50%" height="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <h1 align="center" style="margin-top: 40px">Languages and Tools</h1>
 
