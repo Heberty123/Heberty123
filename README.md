@@ -1,5 +1,4 @@
 
-
 <!--
 https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 -->
@@ -16,11 +15,10 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
   <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heberty123&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heberty&label=Profile%20views&color=0e75b6&style=flat" alt="heberty" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heberty" alt="heberty" /></a> </p>
+<img align="right" alt="Conding" width="45%" height="350" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p width="48%" align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Spring boot, React and React Native**
 
@@ -30,9 +28,24 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 
 - ⚡ Fun fact **I am funny**
 
+
+- 📫 How to reach me **hebertyprado22005@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
+- 📫 How to reach me **hebertyprado22005@gmail.com**
+
+- ⚡ Fun fact **I am funny**
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=heberty&label=Profile%20views&color=0e75b6&style=flat" alt="heberty" /> </p>
+
+
+
 <div style="margin-top: 40px">
 
-<img align="right" alt="Conding" width="330" height="350" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="left" alt="Conding" width="45%" height="450" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 <h1 align="center" style="margin-top: 40px">Languages and Tools</h1>
 
