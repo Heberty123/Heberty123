@@ -14,6 +14,10 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heberty123&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+<div style="margin-top: 40px">
+
+<img align="right" alt="Conding" width="380" height="410" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+
 <h1 align="center" style="margin-top: 40px">Main Skills</h1>
 
 <div align="center" valign="top" style="margin-top: 65px;"><br>
@@ -39,6 +43,8 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
   <a href="https://www.facebook.com/heberty.guelfiprado" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/heberty-guelfi-do-prado-3b5a991bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="hebertyprado22005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 </div>
 
 <div align="center">
