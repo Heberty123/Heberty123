@@ -16,7 +16,7 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 </div>
 
 
-<img align="right" alt="Conding" width="45%" height="350" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif">
+<img align="right" alt="Conding" width="50%" height="350" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif">
 
 <p width="48%" align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -45,7 +45,7 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 
 <div style="margin-top: 40px">
 
-<img align="left" alt="Conding" width="45%" height="450" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+<img align="left" alt="Conding" width="35%" height="350" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 <h1 align="center" style="margin-top: 40px">Languages and Tools</h1>
 
