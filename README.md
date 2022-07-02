@@ -16,7 +16,7 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 </div>
 
 
-<img align="right" alt="Conding" width="50%" height="350" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif">
+<img align="right" alt="Conding" width="50%" height="330" src="https://cdn.dribbble.com/users/2054184/screenshots/5426945/computer-flat-design.gif">
 
 <p width="48%" align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
