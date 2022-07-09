@@ -28,7 +28,9 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 
 - ⚡ Fun fact **I am funny**
 
-- ⚡ Fun fact **I am funny as FullStack Developer**
+- ⚡ Fun fact **I am fun as FullStack Developer**
+
+- ⚡ I am fun as **Developer**
 
 
 
