@@ -22,20 +22,13 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 
 - 🌱 I’m currently learning **Spring boot, React and React Native**
 
-- 💬 Ask me about **Spring boot, React and SQL**
+- 💬 Ask me about **Spring boot, java, React and SQL**
 
 - 📫 How to reach me **hebertyprado22005@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
-
-- 📫 How to reach me **hebertyprado22005@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-- 📫 How to reach me **hebertyprado22005@gmail.com**
-
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am funny as FullStack Developer**
 
 
 
