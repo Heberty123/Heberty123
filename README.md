@@ -16,7 +16,7 @@ https://github.com/Heberty123/Heberty123/blob/master/LICENSE
 
 
 
-
+- Currently I am Software Developer Junior at **Mercado Libre**.
 
 - 🌱 I’m currently learning **Spring boot, React and React Native**
 
